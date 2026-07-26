@@ -1,6 +1,6 @@
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/nihubora264/appx-auto-4)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Shreerambro/Appx-Auto-upload)
 
 ## Code Write By @ItsMeMaster
 
